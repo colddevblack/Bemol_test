@@ -1,0 +1,12 @@
+NuGet\Install-Package EntityFramework
+
+NuGet\Install-Package Microsoft.EntityFrameworkCore.Design
+NuGet\Install-Package Microsoft.EntityFrameworkCore.SqlServer
+
+NuGet\Install-Package Microsoft.EntityFrameworkCore.Tools 
+
+-- code first 
+
+Add-Migration nome
+
+update-database

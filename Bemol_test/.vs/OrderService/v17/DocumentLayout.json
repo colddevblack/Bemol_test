@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderconsumer\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|solutionrelative:orderconsumer\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderconsumer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|solutionrelative:orderconsumer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderconsumer\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|solutionrelative:orderconsumer\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderconsumer\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|solutionrelative:orderconsumer\\services\\gamesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderconsumer\\models\\gamesdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|solutionrelative:orderconsumer\\models\\gamesdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderconsumer\\consumers\\ticketconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|solutionrelative:orderconsumer\\consumers\\ticketconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEF7A7-8F00-4BDA-AE18-EEEA96CBE1D4}|OrderPublisher\\OrderPublisher.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderpublisher\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFEF7A7-8F00-4BDA-AE18-EEEA96CBE1D4}|OrderPublisher\\OrderPublisher.csproj|solutionrelative:orderpublisher\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|solutionrelative:orderconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|solutionrelative:orderconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Cold\\Downloads\\mongodb-dotnet-example-main\\mongodb-dotnet-example-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderconsumer\\orderconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|solutionrelative:orderconsumer\\orderconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEF7A7-8F00-4BDA-AE18-EEEA96CBE1D4}|OrderPublisher\\OrderPublisher.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderpublisher\\mongodbconect\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCFEF7A7-8F00-4BDA-AE18-EEEA96CBE1D4}|OrderPublisher\\OrderPublisher.csproj|solutionrelative:orderpublisher\\mongodbconect\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEF7A7-8F00-4BDA-AE18-EEEA96CBE1D4}|OrderPublisher\\OrderPublisher.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderpublisher\\orderpublisher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCFEF7A7-8F00-4BDA-AE18-EEEA96CBE1D4}|OrderPublisher\\OrderPublisher.csproj|solutionrelative:orderpublisher\\orderpublisher.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEF7A7-8F00-4BDA-AE18-EEEA96CBE1D4}|OrderPublisher\\OrderPublisher.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderpublisher\\orderpublisher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BCFEF7A7-8F00-4BDA-AE18-EEEA96CBE1D4}|OrderPublisher\\OrderPublisher.csproj|solutionrelative:orderpublisher\\orderpublisher.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|h:\\bemol - desafio backend\\desafio\\service a\\orderconsumer\\orderconsumer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7419EA1D-8BE2-41D0-BF16-D9DB548295F4}|OrderConsumer\\OrderConsumer.csproj|solutionrelative:orderconsumer\\orderconsumer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GamesService.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Services\\GamesService.cs",
+              "RelativeDocumentMoniker": "OrderConsumer\\Services\\GamesService.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Services\\GamesService.cs",
+              "RelativeToolTip": "OrderConsumer\\Services\\GamesService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:30:21.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GamesDatabaseSettings.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Models\\GamesDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "OrderConsumer\\Models\\GamesDatabaseSettings.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Models\\GamesDatabaseSettings.cs",
+              "RelativeToolTip": "OrderConsumer\\Models\\GamesDatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:41:32.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "OrderConsumer\\Models\\Game.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Models\\Game.cs",
+              "RelativeToolTip": "OrderConsumer\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:41:22.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderPublisher\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderPublisher\\Controllers\\OrderController.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderPublisher\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderPublisher\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:25:53.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Cold\\Downloads\\mongodb-dotnet-example-main\\mongodb-dotnet-example-main\\appsettings.json",
+              "ToolTip": "C:\\Users\\Cold\\Downloads\\mongodb-dotnet-example-main\\mongodb-dotnet-example-main\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T04:16:52.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderConsumer\\appsettings.json",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\appsettings.json",
+              "RelativeToolTip": "OrderConsumer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-13T04:16:33.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "OrderConsumer\\Controllers\\GamesController.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "OrderConsumer\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:16:10.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Startup.cs",
+              "RelativeDocumentMoniker": "OrderConsumer\\Startup.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Startup.cs",
+              "RelativeToolTip": "OrderConsumer\\Startup.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:13:55.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderPublisher\\MongoDBConect\\Class.cs",
+              "RelativeDocumentMoniker": "OrderPublisher\\MongoDBConect\\Class.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderPublisher\\MongoDBConect\\Class.cs",
+              "RelativeToolTip": "OrderPublisher\\MongoDBConect\\Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:22:04.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "OrderConsumer\\Program.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Program.cs",
+              "RelativeToolTip": "OrderConsumer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T03:16:37.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderPublisher.csproj",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderPublisher\\OrderPublisher.csproj",
+              "RelativeDocumentMoniker": "OrderPublisher\\OrderPublisher.csproj",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderPublisher\\OrderPublisher.csproj",
+              "RelativeToolTip": "OrderPublisher\\OrderPublisher.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T00:20:19.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderPublisher",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderPublisher\\OrderPublisher.csproj",
+              "RelativeDocumentMoniker": "OrderPublisher\\OrderPublisher.csproj",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderPublisher\\OrderPublisher.csproj",
+              "RelativeToolTip": "OrderPublisher\\OrderPublisher.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T00:20:24.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderConsumer.csproj",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\OrderConsumer.csproj",
+              "RelativeDocumentMoniker": "OrderConsumer\\OrderConsumer.csproj",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\OrderConsumer.csproj",
+              "RelativeToolTip": "OrderConsumer\\OrderConsumer.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T00:19:42.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderConsumer",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\OrderConsumer.csproj",
+              "RelativeDocumentMoniker": "OrderConsumer\\OrderConsumer.csproj",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\OrderConsumer.csproj",
+              "RelativeToolTip": "OrderConsumer\\OrderConsumer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-12T00:19:46.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketConsumer.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Consumers\\TicketConsumer.cs",
+              "RelativeDocumentMoniker": "OrderConsumer\\Consumers\\TicketConsumer.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Service A\\OrderConsumer\\Consumers\\TicketConsumer.cs",
+              "RelativeToolTip": "OrderConsumer\\Consumers\\TicketConsumer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T00:16:37.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

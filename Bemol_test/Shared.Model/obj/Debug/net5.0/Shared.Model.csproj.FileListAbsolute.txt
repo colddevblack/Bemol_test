@@ -1,0 +1,45 @@
+D:\projetos\MassTransit\OrderService\Shared.Model\bin\Debug\net5.0\Shared.Model.deps.json
+D:\projetos\MassTransit\OrderService\Shared.Model\bin\Debug\net5.0\Shared.Model.dll
+D:\projetos\MassTransit\OrderService\Shared.Model\bin\Debug\net5.0\ref\Shared.Model.dll
+D:\projetos\MassTransit\OrderService\Shared.Model\bin\Debug\net5.0\Shared.Model.pdb
+D:\projetos\MassTransit\OrderService\Shared.Model\obj\Debug\net5.0\Shared.Model.csprojAssemblyReference.cache
+D:\projetos\MassTransit\OrderService\Shared.Model\obj\Debug\net5.0\Shared.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\MassTransit\OrderService\Shared.Model\obj\Debug\net5.0\Shared.Model.AssemblyInfoInputs.cache
+D:\projetos\MassTransit\OrderService\Shared.Model\obj\Debug\net5.0\Shared.Model.AssemblyInfo.cs
+D:\projetos\MassTransit\OrderService\Shared.Model\obj\Debug\net5.0\Shared.Model.csproj.CoreCompileInputs.cache
+D:\projetos\MassTransit\OrderService\Shared.Model\obj\Debug\net5.0\Shared.Model.dll
+D:\projetos\MassTransit\OrderService\Shared.Model\obj\Debug\net5.0\ref\Shared.Model.dll
+D:\projetos\MassTransit\OrderService\Shared.Model\obj\Debug\net5.0\Shared.Model.pdb
+H:\Bemol - Desafio Backend\Service A\Shared.Model\bin\Debug\net5.0\Shared.Model.deps.json
+H:\Bemol - Desafio Backend\Service A\Shared.Model\bin\Debug\net5.0\Shared.Model.dll
+H:\Bemol - Desafio Backend\Service A\Shared.Model\bin\Debug\net5.0\Shared.Model.pdb
+H:\Bemol - Desafio Backend\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.GeneratedMSBuildEditorConfig.editorconfig
+H:\Bemol - Desafio Backend\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.AssemblyInfoInputs.cache
+H:\Bemol - Desafio Backend\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.AssemblyInfo.cs
+H:\Bemol - Desafio Backend\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.csproj.CoreCompileInputs.cache
+H:\Bemol - Desafio Backend\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.dll
+H:\Bemol - Desafio Backend\Service A\Shared.Model\obj\Debug\net5.0\refint\Shared.Model.dll
+H:\Bemol - Desafio Backend\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.pdb
+H:\Bemol - Desafio Backend\Service A\Shared.Model\obj\Debug\net5.0\ref\Shared.Model.dll
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\bin\Debug\net5.0\Shared.Model.deps.json
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\bin\Debug\net5.0\Shared.Model.dll
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\bin\Debug\net5.0\Shared.Model.pdb
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.GeneratedMSBuildEditorConfig.editorconfig
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.AssemblyInfoInputs.cache
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.AssemblyInfo.cs
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.csproj.CoreCompileInputs.cache
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.dll
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\obj\Debug\net5.0\refint\Shared.Model.dll
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\obj\Debug\net5.0\Shared.Model.pdb
+H:\Bemol - Desafio Backend\desafio\Service A\Shared.Model\obj\Debug\net5.0\ref\Shared.Model.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\bin\Debug\net5.0\Shared.Model.deps.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\bin\Debug\net5.0\Shared.Model.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\bin\Debug\net5.0\Shared.Model.pdb
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\obj\Debug\net5.0\Shared.Model.GeneratedMSBuildEditorConfig.editorconfig
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\obj\Debug\net5.0\Shared.Model.AssemblyInfoInputs.cache
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\obj\Debug\net5.0\Shared.Model.AssemblyInfo.cs
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\obj\Debug\net5.0\Shared.Model.csproj.CoreCompileInputs.cache
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\obj\Debug\net5.0\Shared.Model.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\obj\Debug\net5.0\refint\Shared.Model.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\obj\Debug\net5.0\Shared.Model.pdb
+H:\Bemol - Desafio Backend\desafio\Bemol_test\Shared.Model\obj\Debug\net5.0\ref\Shared.Model.dll

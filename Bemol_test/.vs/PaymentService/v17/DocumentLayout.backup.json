@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{255D932D-076A-42E9-BFD7-4B482ECDAA1D}|PaymentPublisher\\PaymentPublisher.csproj|h:\\bemol - desafio backend\\desafio\\bemol_test\\paymentpublisher\\controllers\\paymentpublishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255D932D-076A-42E9-BFD7-4B482ECDAA1D}|PaymentPublisher\\PaymentPublisher.csproj|solutionrelative:paymentpublisher\\controllers\\paymentpublishcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|h:\\bemol - desafio backend\\desafio\\bemol_test\\paymentconsumer\\consumers\\orderpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|solutionrelative:paymentconsumer\\consumers\\orderpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|h:\\bemol - desafio backend\\desafio\\bemol_test\\paymentconsumer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|solutionrelative:paymentconsumer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|h:\\bemol - desafio backend\\desafio\\bemol_test\\paymentconsumer\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|solutionrelative:paymentconsumer\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|h:\\bemol - desafio backend\\desafio\\bemol_test\\paymentconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|solutionrelative:paymentconsumer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|h:\\bemol - desafio backend\\desafio\\bemol_test\\paymentconsumer\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|solutionrelative:paymentconsumer\\context\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|h:\\bemol - desafio backend\\desafio\\bemol_test\\paymentconsumer\\paymentconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|solutionrelative:paymentconsumer\\paymentconsumer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|h:\\bemol - desafio backend\\desafio\\bemol_test\\paymentconsumer\\migrations\\20241214080115_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EBB0B0F-7250-44F4-A16A-EC85BEB77E2E}|PaymentConsumer\\PaymentConsumer.csproj|solutionrelative:paymentconsumer\\migrations\\20241214080115_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\appsettings.json",
+              "RelativeDocumentMoniker": "PaymentConsumer\\appsettings.json",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\appsettings.json",
+              "RelativeToolTip": "PaymentConsumer\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T07:46:41.432Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderPaymentConsumer.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\Consumers\\OrderPaymentConsumer.cs",
+              "RelativeDocumentMoniker": "PaymentConsumer\\Consumers\\OrderPaymentConsumer.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\Consumers\\OrderPaymentConsumer.cs",
+              "RelativeToolTip": "PaymentConsumer\\Consumers\\OrderPaymentConsumer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:32:38.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentPublishController.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentPublisher\\Controllers\\PaymentPublishController.cs",
+              "RelativeDocumentMoniker": "PaymentPublisher\\Controllers\\PaymentPublishController.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentPublisher\\Controllers\\PaymentPublishController.cs",
+              "RelativeToolTip": "PaymentPublisher\\Controllers\\PaymentPublishController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAnwCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:06:46.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "PaymentConsumer\\Controllers\\PaymentsController.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "PaymentConsumer\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwFcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:02:12.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241214080115_initial.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\Migrations\\20241214080115_initial.cs",
+              "RelativeDocumentMoniker": "PaymentConsumer\\Migrations\\20241214080115_initial.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\Migrations\\20241214080115_initial.cs",
+              "RelativeToolTip": "PaymentConsumer\\Migrations\\20241214080115_initial.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:01:15.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentConsumer.csproj",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\PaymentConsumer.csproj",
+              "RelativeDocumentMoniker": "PaymentConsumer\\PaymentConsumer.csproj",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\PaymentConsumer.csproj",
+              "RelativeToolTip": "PaymentConsumer\\PaymentConsumer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T07:38:59.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\Context\\DataContext.cs",
+              "RelativeDocumentMoniker": "PaymentConsumer\\Context\\DataContext.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\Context\\DataContext.cs",
+              "RelativeToolTip": "PaymentConsumer\\Context\\DataContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:48:38.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\Startup.cs",
+              "RelativeDocumentMoniker": "PaymentConsumer\\Startup.cs",
+              "ToolTip": "H:\\Bemol - Desafio Backend\\desafio\\Bemol_test\\PaymentConsumer\\Startup.cs",
+              "RelativeToolTip": "PaymentConsumer\\Startup.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T07:44:59.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

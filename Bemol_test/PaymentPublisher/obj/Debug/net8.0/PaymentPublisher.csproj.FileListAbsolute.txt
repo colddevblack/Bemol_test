@@ -1,0 +1,394 @@
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.deps.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.runtimeconfig.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.staticwebassets.endpoints.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.exe
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\appsettings.Development.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\appsettings.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.staticwebassets.endpoints.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.exe
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.deps.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.runtimeconfig.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.pdb
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Automatonymous.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Azure.Core.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Azure.Identity.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\DnsClient.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\GreenPipes.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Humanizer.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\MassTransit.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\MongoDB.Bson.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\MongoDB.Driver.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\NewId.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Newtonsoft.Json.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\RabbitMQ.Client.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\SharpCompress.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Snappier.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.ClientModel.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.CodeDom.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Formats.Asn1.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Memory.Data.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\System.Text.Json.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ZstdSharp.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Shared.Model.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.pdb
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\bin\Debug\net8.0\Shared.Model.pdb
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.csproj.AssemblyReference.cache
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.GeneratedMSBuildEditorConfig.editorconfig
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.AssemblyInfoInputs.cache
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.AssemblyInfo.cs
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.csproj.CoreCompileInputs.cache
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.MvcApplicationPartsAssemblyInfo.cs
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.MvcApplicationPartsAssemblyInfo.cache
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\scopedcss\bundle\PaymentPublisher.styles.css
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\staticwebassets.development.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\staticwebassets\msbuild.PaymentPublisher.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\staticwebassets\msbuild.PaymentPublisher.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\staticwebassets\msbuild.build.PaymentPublisher.props
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PaymentPublisher.props
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PaymentPublisher.props
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\staticwebassets.pack.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentP.05FDC6D9.Up2Date
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\refint\PaymentPublisher.dll
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.pdb
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.genruntimeconfig.cache
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentPublisher\obj\Debug\net8.0\ref\PaymentPublisher.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.deps.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.runtimeconfig.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.staticwebassets.endpoints.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.exe
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\appsettings.Development.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\appsettings.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.staticwebassets.endpoints.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.exe
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.deps.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.runtimeconfig.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentPublisher.pdb
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Automatonymous.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Azure.Core.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Azure.Identity.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\DnsClient.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\GreenPipes.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Humanizer.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\MassTransit.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\MassTransit.AspNetCoreIntegration.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\MassTransit.RabbitMqTransport.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\MongoDB.Bson.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\MongoDB.Driver.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\NewId.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Newtonsoft.Json.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\RabbitMQ.Client.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\SharpCompress.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Snappier.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.ClientModel.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.CodeDom.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Formats.Asn1.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Memory.Data.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\System.Text.Json.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ZstdSharp.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\de\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\es\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\fr\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\it\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ja\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ko\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\ru\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Shared.Model.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\PaymentConsumer.pdb
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\bin\Debug\net8.0\Shared.Model.pdb
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.csproj.AssemblyReference.cache
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.GeneratedMSBuildEditorConfig.editorconfig
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.AssemblyInfoInputs.cache
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.AssemblyInfo.cs
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.csproj.CoreCompileInputs.cache
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.MvcApplicationPartsAssemblyInfo.cs
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.MvcApplicationPartsAssemblyInfo.cache
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\scopedcss\bundle\PaymentPublisher.styles.css
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\staticwebassets.development.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\staticwebassets\msbuild.PaymentPublisher.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\staticwebassets\msbuild.PaymentPublisher.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\staticwebassets\msbuild.build.PaymentPublisher.props
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PaymentPublisher.props
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PaymentPublisher.props
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\staticwebassets.pack.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentP.05FDC6D9.Up2Date
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\refint\PaymentPublisher.dll
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.pdb
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\PaymentPublisher.genruntimeconfig.cache
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentPublisher\obj\Debug\net8.0\ref\PaymentPublisher.dll

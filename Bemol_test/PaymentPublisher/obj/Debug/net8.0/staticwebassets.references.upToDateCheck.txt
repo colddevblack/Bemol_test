@@ -1,0 +1,24 @@
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Service A\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json
+H:\Bemol - Desafio Backend\desafio\Bemol_test\PaymentConsumer\obj\Debug\net8.0\staticwebassets.build.json

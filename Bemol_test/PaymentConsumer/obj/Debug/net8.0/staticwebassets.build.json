@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "zYz8ioIgN2Lkq+5R6gRBcjYd+IoWwM9AVIBWpBPM2/g=",
+  "Source": "PaymentConsumer",
+  "BasePath": "_content/PaymentConsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
